@@ -1,2 +1,0 @@
-streamlit>=1.0
-sympy>=1.10
