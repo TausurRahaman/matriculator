@@ -15,7 +15,7 @@ MatriCulator is a Streamlit web app for performing common matrix operations usin
 ## Getting Started
 
 1. Clone the repo:  
-   `git clone https://github.com/yourusername/matriculator.git`  
+   `git clone https://github.com/TausurRahaman/matriculator.git`  
 2. Install dependencies:  
    `pip install -r requirements.txt`  
 3. Run the app:  
